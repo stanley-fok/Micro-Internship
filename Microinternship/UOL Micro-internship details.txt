@@ -1,0 +1,104 @@
+1. Have a look at other universities NSS and compare, what tactic they use for keeping students to answer survey - social media channel 
+
+Loughborough
+ - doesn't have incentives for students (NSS)
+ - utilises social media to engage students and share information about the NSS - strong communication and engaging words like e.g., "Shape the future of your course" or "Your voice matters."
+ - Facebook, Twitter, Instagram, YouTube, and Snapchat 
+Warwick
+ - 2 x £100 EdenRed vouchers, 8 x £50 EdenRed vouchers, 75 x £20 EdenRed vouchers - 
+ - or departments can spend up to a maximum of £5 per student - Charitable schemes and Prize schemes
+ - shows which area has improved listed to see the improvements and initiatives we’ve introduced, as a direct result of the NSS
+ - Twitter, Facebook, and Instagram
+Birmingham
+ - Survey of sexual misconduct along with NSS (optional) (DO NOT COPY BUT FIND SOMETHING SIMILAR)
+ - Students cannot complete the sexual misconduct survey if they have not completed the NSS
+ - prize draw as an incentive for students to participate in the National Student Survey (NSS). 
+   Eligible students who complete the survey will be entered into a draw for a chance to win one of five £150 cash prizes.
+ - Instagram and TikTok to remind students to complete the NSS by the April 30th deadline
+
+Warwick: Has different induction/welcome pathways for new UGs, returning UGs, new PGTs, and PGRs.
+
+Birmingham: Sends separate emails to UGs and PGs; continuing students get re-registration info, not a "welcome" email in the same tone as new starters.
+
+Loughborough: First-year UGs receive a welcome pack + email; returners receive re-enrolment and module confirmation details, not a full-blown “welcome.”
+
+
+https://www.birmingham.ac.uk/welcome
+https://warwick.ac.uk/students/together/welcome
+https://www.lboro.ac.uk/students/welcome/
+ 
+
+how we've worded it or displayed for the users
+ - use more general terms for prizes, I'm not sure if everyone would be appealed to only food and drink vouchers.
+
+
+ 
+2. UPay App explore functionality (data) to make it better - (food and drink team)
+
+
+
+3. Forward thank you completion email from Ipsos to student-surveys@le.ac.uk - what to do with these data? visualize and track ( write down a guide )
+
+ - Can be used to confirm the amount of users who have completed the survey which can be used to form a visualisation or tracking on completion rates
+ - However, I do think that using an automated email which confirms a user after survey submission is more efficient
+ - Can be used to track who deserves the incentives such as vouchers though, the email must have a confirmation number like student ID to differentiate users. 
+ 
+
+budget, vouchers, survey problems, communication, data.
+
+
+
+Digital surveys
+
+Drop-In NSS Completion Stations - Library, Percy Gee, or some common areas or for main social events 
+
+
+My inbox:
+
+frequency of emails I get - maybe data related
+
+emails I received:
+ - Joe
+ - careerhelp@targetconnect.system.le.ac.uk
+ - zh168@leicester.ac.uk
+ - Amazon
+ - Puregym
+ - cmsplacements@leicester.ac.uk
+ - modulereg@le.ac.uk
+ - Payments@Upay.co.uk
+ - Targetjobs
+ - cmsadmin@leicester.ac.uk<blackboard@system.le.ac.uk>
+ - Student Circus
+ - blackboard@system.le.ac.uk
+ - placements@leicester.ac.uk
+ - wocw2@leicester.ac.uk
+ - hosting@evasys.co.uk
+ - rvo2@leicester.ac.uk<blackboard@system.le.ac.uk>
+ - Leicester Students' Union<hellosu@le.ac.uk>
+ - University.of.Leicester4@cmp.dotmailer.co.uk
+ - UNiDAYS<no-reply@myunidays.com>
+ - ny50@leicester.ac.uk<blackboard@system.le.ac.uk>
+ - University of Leicester<hosting@evasys.co.uk>
+ - SharePoint Online<no-reply@sharepointonline.com>
+ - Nandos
+ - CMS Careers Info<blackboard@system.le.ac.uk>
+ - as1617@leicester.ac.uk<blackboard@system.le.ac.uk>
+ - jh955@leicester.ac.uk<blackboard@system.le.ac.uk>
+ - GitLab<gitlab@mcs.le.ac.uk>
+ - ibmtrain@us.ibm.com via sendgrid.softlayer.com
+ - Credly<admin@credly.com>
+ - IBM via Credly<admin@credly.com>
+ - University.of.Leicester4@cmp.dotmailer.co.uk (Win a £25 voucher as Survey Season launches today!)
+ - amscms@leicester.ac.uk
+ - The Centre for Academic Achievement<achieve@targetconnect.system.le.ac.uk>
+ - ww152@leicester.ac.uk<blackboard@system.le.ac.uk>
+ - SU Marketing<hellosu@le.ac.uk>
+ - jh955@leicester.ac.uk
+
+
+
+relevant email or not (maybe too much emails) 
+
+September 2024 - onwards
+
+presentation on emails frequency who they are from, etc.
